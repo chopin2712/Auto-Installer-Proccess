@@ -12,6 +12,7 @@ It will install all software in the directory.
 ### Dependencies
 To install this package you will need some basic component:
 * Git (`sudo apt install git`)
+* Python3.7 (`sudo apt install python3.7`)
 * A Root Access
 ### Installation
 Installing this script is very easy just run these commands:
