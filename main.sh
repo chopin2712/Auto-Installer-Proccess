@@ -16,5 +16,4 @@ if ls ./*.sh
   chmod +x *.sh
   sudo sh *.sh
   sudo rm *.sh
-then
 exit
