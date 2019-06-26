@@ -19,6 +19,9 @@ Installing this script is very easy just run these commands:
 git clone https://github.com/chopin2712/Auto-Installer-process
 cd Auto-Installer-Process
 sudo sh setup.sh
+
+cd ..
+rm -r Auto-Installer-Process
 ```
 
 ### Update
