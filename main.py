@@ -17,5 +17,8 @@ for file in os.listdir('.'):
         os.system("chmod +x *.sh")
         os.system("sudo sh *.sh")
         os.system("sudo rm *.sh")
-    wine
+    elif fnmatch.fnmatch(file, '*.flatpakref'):
+        os.system("sudo flatpak install")
+        os.system("sudo flatpak run")
+    # wine
 os.system("sudo rm main.py")
