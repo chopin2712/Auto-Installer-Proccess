@@ -21,7 +21,7 @@ cd Auto-Installer-process
 sudo sh setup.sh
 
 cd ..
-rm -r Auto-Installer-process
+sudo rm -r Auto-Installer-process
 ```
 
 ### Update
