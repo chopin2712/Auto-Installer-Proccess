@@ -1,3 +1,2 @@
-sudo cp /opt/aip/main .
-sudo sh main
-sudo rm ./main
+sudo cp /opt/aip/main.py .
+sudo python3.7 main.py
