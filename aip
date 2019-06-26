@@ -1,3 +1,3 @@
-sudo cp /opt/aip/main.sh .
-sudo sh main.sh
-sudo rm ./main.sh
+sudo cp /opt/aip/main .
+sudo sh main
+sudo rm ./main
