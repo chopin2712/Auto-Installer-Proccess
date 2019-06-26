@@ -1,4 +1,7 @@
 # Install deb files
+sudo apt upgrade
+sudo apt update
+
 sudo dpkg -i *.deb
 sudo apt -f -y install
 sudo rm *.deb
