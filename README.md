@@ -45,3 +45,6 @@ Of course you can contribute to this project:
 3. Make changes
 4. Make a pull request (on branch dev)
 5. You will be notified when your code has been reviewed / merged
+
+## Copyright
+This project is under GNUv3 public general License.
