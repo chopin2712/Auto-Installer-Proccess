@@ -7,12 +7,12 @@ then
   sudo dpkg -i *.deb
   sudo apt -f -y install
   sudo rm *.deb
-fi ls ./*.AppImage
+if ls ./*.AppImage
   sudo chmod +x *.AppImage
   sudo ./*.AppImage
   ./*.AppImage
   sudo rm *.AppImage
-fi ls ./*.sh
+if ls ./*.sh
   chmod +x *.sh
   sudo sh *.sh
   sudo rm *.sh
