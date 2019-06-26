@@ -18,7 +18,7 @@ What we really need are two things:
 * You can give your own ideas too!
 
 ## Code Style
-* All your files must be wrote in Shell Script and exclusively for Linux (recommended: Ubuntu)
+* All your files must be wrote in Shell Script and Python and exclusively for Linux (recommended: Ubuntu)
 
 * Comments are optional.
 
