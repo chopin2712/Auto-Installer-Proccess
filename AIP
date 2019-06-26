@@ -1,0 +1,3 @@
+cp /opt/AIP/main.py .
+sudo python3.7 main.py
+rm ./main.py
