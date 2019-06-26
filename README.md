@@ -1,6 +1,12 @@
 # AIP - Auto-Installer-Process
 You know like me, Linux has a lot of different installation packages, sh, deb, AppImage, etc. All these packages are installed with a different way. Would you like to install all the packages of a directory in once? If the answer is yes, Aip is made for you!
 
+Support :
+Flatpak, deb, AppImage, Shell Script, Snap and Aptitude
+
+Supported in the future:
+exe, pip, python.
+
 ## Usage
 This software is very easy to use, you have just to enter in the directory of the file and run :
 
@@ -8,10 +14,17 @@ This software is very easy to use, you have just to enter in the directory of th
 
 It will install all software in the directory.
 
+Or you can use AIPN, to install packages without downloading them (using snap, apt or flatpak as example)
+
+1. Run `sudo aipn`
+2. Then answer to the questions
+3. When the software is installed (with one way) make CTRL+D
+
 ## Install
 ### Dependencies
 To install this package you will need some basic component:
 * Git (`sudo apt install git`)
+* Python3.7 (`sudo apt install python3.7`)
 * A Root Access
 ### Installation
 Installing this script is very easy just run these commands:
