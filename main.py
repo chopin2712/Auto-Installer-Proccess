@@ -17,4 +17,5 @@ for file in os.listdir('.'):
         os.system("chmod +x *.sh")
         os.system("sudo sh *.sh")
         os.system("sudo rm *.sh")
+    wine
 os.system("sudo rm main.py")
