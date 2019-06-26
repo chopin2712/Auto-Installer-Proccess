@@ -17,4 +17,4 @@ if ls ./*.sh
   sudo sh *.sh
   sudo rm *.sh
 then
-done
+exit
