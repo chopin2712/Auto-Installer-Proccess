@@ -17,7 +17,7 @@ To install this package you will need some basic component:
 Installing this script is very easy just run these commands:
 ```
 git clone https://github.com/chopin2712/Auto-Installer-process
-cd Auto-Installer-Process
+cd Auto-Installer-process
 sudo sh setup.sh
 
 cd ..
