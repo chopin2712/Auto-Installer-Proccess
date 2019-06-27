@@ -8,6 +8,7 @@ This is a quick list of the most successful installations using AIP and AIPN:
 | AppImage | 100% | |
 | Shell | 0% | Not tested yet |
 | FlatPak | 0% | |
+| Exe | 0% | Not Tested yet | 
 
 | Remote | Success ratio | Notes |
 | :--- | :--- | :--- |
