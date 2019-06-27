@@ -30,3 +30,4 @@ This is a quick list of the most successful installations using AIP and AIPN:
 | 9 | Docker | AIPN | Apt + Snap | | deb + snap |  | https://www.docker.com/ |
 | 10 | Chromium | AIPN | Snap | | snap | | https://www.chromium.org |
 | 11 | Brave | AIPN | Snap | | snap | | https://brave.com/ |
+| 12 | SkaiaCraft | AIP | Java | | Jar | Launcher Only | https://www.skaia.website/ |
