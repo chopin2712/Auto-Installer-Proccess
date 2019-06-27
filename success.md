@@ -11,8 +11,8 @@ This is a quick list of the most successful installations using AIP and AIPN:
 
 | Remote | Success ratio | Notes |
 | :--- | :--- | :--- |
-| APT | 80% | Cannot access PPA |
-| Snap | 90% | Needs to remove the older tag to install a new one |
+| APT | 90% | Cannot access PPA |
+| Snap | 100% | Needs to remove the older tag to install a new one |
 | Snap with tag | 100% | You need to know the tag to install it |
 | FlatPak | 0% | Unstable and not tested |
 
