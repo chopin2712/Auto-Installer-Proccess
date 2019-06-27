@@ -17,7 +17,7 @@ for file in os.listdir('.'):
         os.system("chmod +x *.sh")
         os.system("sudo sh *.sh")
         os.system("sudo rm *.sh")
-    elif fnmatch.fnmatch(file, '*.flatpakref'):
+    elif fnmatch.fnmatch(file, '*.flatpakref0'): # DO NOT USE FLATPAK(added 0)
         os.system("flatpak update -v")
         os.system("sudo flatpak install *.flatpakref")
         os.system("sudo flatpak run *.flatpakref")
