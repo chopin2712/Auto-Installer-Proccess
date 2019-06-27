@@ -3,6 +3,8 @@ sudo apt install -y python3.7
 sudo apt install -y wine
 sudo apt install -y git
 sudo apt install -y snap
+sudo apt install -y java
+sudo apt install -y openjdk-8-jre
 
 sudo apt install -y flatpak
 sudo apt install -y gnome-software-plugin-flatpak
