@@ -27,3 +27,4 @@ This is a quick list of the most successful installations using AIP and AIPN:
 | Musescore 3 | AIPN | Snap | --beta | snap | | https://musescore.org |
 | ShotCut | AIPN | Snap | --classic | snap | | https://shotcut.org/ |
 | VLC | AIPN | Apt |  | deb |  | https://www.videolan.org/vlc/index.html |
+| Docker | AIPN | Apt + Snap | | deb + snap |  | https://www.docker.com/ |
