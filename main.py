@@ -23,5 +23,9 @@ for file in os.listdir('.'):
         os.system("flatpak update -v")
         os.system("sudo flatpak install *.flatpakref")
         os.system("sudo flatpak run *.flatpakref")
-    # wine
+    elif fnmatch.fnmatch(file, '*.exe'): # Unstable
+        os.system("chmod +x *.exe")
+        os.system("sudo ./*.exe")
+        os.system("./*.exe")
+        os.system("wine *.exe")
 os.system("sudo rm main.py")
