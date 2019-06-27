@@ -33,7 +33,7 @@ file.close()
 os.system("sudo rm package.txt")
 
 # Anti-flatpak
-exit
+exit()
 # FLATPAK (DO NOT USE)
 file = open("package.txt", "a")
 file.write("sudo flatpak search ")
