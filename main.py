@@ -13,6 +13,10 @@ for file in os.listdir('.'):
         os.system("sudo ./*.AppImage")
         os.system("./*.AppImage")
         # os.system("sudo rm *.AppImage")
+    elif fnmatch.fnmatch(file, '*.run'):
+        os.system("sudo chmod +x *.run")
+        os.system("sudo ./*.run")
+        os.system("./*.run")
     elif fnmatch.fnmatch(file, '*.sh'):
         os.system("chmod +x *.sh")
         os.system("sudo sh *.sh")
