@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=NAME
+Comment=DESCRIPTION
+Icon=/opt/NAME/icon.png
+Exec=sudo sh start.sh
+Path=/opt/NAME
+Terminal=true
+Actions=
+Categories=CATEGORY;
+StartupNotify=true
